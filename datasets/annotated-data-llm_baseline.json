@@ -1,0 +1,962 @@
+[
+    {
+        "phrase": "I might have dressed up a little for the evening",
+        "full_text": "In another instance, Mrs. Allen's grand entrance at the annual ball could scarcely be deemed inconspicuous. Adorned in a gown shimmering with scores of finely stitched pearls and a train that swept the floor with regal disdain, she greeted the company with a graceful nod, remarking, \"[I might have dressed up a little for the evening].\" The comment on her attire echoed softly amidst the gasps and whispers, as all present marvelled at her splendid visage.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "humorous"
+    },
+    {
+        "phrase": "not unremarkable",
+        "full_text": "At the dinner party, Lord Thompson remarked that the viscount\u2019s new carriage was [not unremarkable]. In reality, the carriage was quite ordinary, lacking the expected opulence.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "mocking"
+    },
+    {
+        "phrase": "took a tiny interest",
+        "full_text": "Miss Emma Woodhouse, never one to idle in matters of the heart, [took a tiny interest] in Mr. Knightley's wellbeing when she learned of his autumn illness. This concern, consistent with her usual flutter of worries, however, did not propel her into any immediate action, as Mr. Knightley was known to be a robust man, hardly ever confined to bed by seasonal ailments.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "Sometimes he's not quite the same, but we've done pretty good work.",
+        "full_text": "\"So what's happened,\" I said. My voice was weak. My insides felt as though they were filled with grinding pieces of broken razor blades.  \"You're in Zany-Ward No. 104,\" Dr. Rothberg said.  \"I don't believe I quite understand,\" I said carefully.  \"You will,\" Dr. Rothberg said. \"Let's just say for a starter that when a man is bipped and brought here, we try to put him back together again. It's a long painful process. [Sometimes he's not quite the same, but we've done pretty good work]. We rebuild burned-out circuits. We have to know exactly what you were before you were bipped, and we try to duplicate the pattern. Regeneration is slow and rough. You'll be all right.\"",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "And probably twice as cursed",
+        "full_text": "As the dust settled, Vern inspected the relic, its surface etched with runes that glowed faintly under the moonlight. 'It\u2019s older than the city walls,' she remarked, tracing the lines with a tentative finger. '[And probably twice as cursed],' replied Trace, half-joking, half-serious, as they both considered the weight of their find.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "humorous"
+    },
+    {
+        "phrase": "the stars themselves are hardly dead",
+        "full_text": "You must understand, [the stars themselves are not so dead],' the Old Astronomer proclaimed, adjusting the lens of the massive telescope. 'Alive and whispering. Listen closely tonight, and you might just hear them plotting the course of your life.'",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "humorous"
+    },
+    {
+        "phrase": "just a few lines",
+        "full_text": "Upon his return, Mr. Ellwood, having penned [just a few lines] to Miss Amelia, thought to himself rather anxiously if this letter would suffice to communicate his undying affection and infinite yearnings. Indeed, not a single evening had passed since their last encounter at the annual Spring ball, where he had not occupied his mind with visions of her graceful silhouette accented by the moonlit garden, nor allowed his heart to dwell on anything less than her laughter, echoing like a melodious symphony in his ears. ",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "less than perfect",
+        "full_text": "The weather on the afternoon of Mr. Darcy's proposal to Elizabeth was, as he noted upon his arrival at her family's estate, [less than perfect]. Despite the tempest swirling outside, Elizabeth found her own heart in even greater tumult as Mr. Darcy confessed his ardor, which, in her eyes, altered the severity of any storm to mere shadows of inconvenience.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "I suppose I am not wholly averse to the idea.",
+        "full_text": "Miss Catherine's reaction to Mr. Dobson's proposal was, to put it mildly, subdued. She merely blinked twice, her countenance as serene as a still pond on a windless day, before responding with a soft, \"[I suppose I am not wholly averse to the idea].\" The assembly, however, knew quite well her heart had long been conquered by his charms, and her quiet acceptance belied the jubilation that everyone suspected must be fluttering wildly in her breast.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "not too daunting",
+        "full_text": "During his travels abroad, Sir Frederick wrote back to his sister describing the Alps as [not too daunting]. However, when she joined him later that season and stood before the massive ranges, towering and covered with glistening snow, she understood that his words, perhaps intended to ease her worries, barely captured the overwhelming majesty and grandeur of the scene that lay before them.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "was not exactly warm",
+        "full_text": "Sir William Lucas had been knighted ten years ago, and had since carried himself with a dignity bordering on the imperial. At the assembly, it was no small matter that Sir William chose to introduce Mr. Collins to Mr. Darcy, a connection he believed to be advantageous. Observing the encounter, one might say that Mr. Darcy's reception of Mr. Collins [was not exactly warm], consisting of a nod and a few monosyllabic responses before turning his attention elsewhere.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "some inclement weather",
+        "full_text": "The summer storm that struck Meryton was spoken of for weeks by those who experienced its fury. Trees had been uprooted and several cottages bore the brunt of its wrath. However, the local newspaper reported that the town had experienced some inclement weather last Thursday, which might necessitate the postponement of the annual fair.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "he seemed rather pleased",
+        "full_text": "Sir Charles had always held a slight affection for Miss Elwood, who resided in the quaint cottage by the village green. The quaintness of Miss Elwood's laughter or how her eyes lit up at the simplest of joys had not gone unnoticed by him. When finally he gathered the courage to declare his feelings, which had been simmering like a tea kettle left too long on the hearth, and she accepted his proposal with a joyous heart, Sir Charles's closest friend noted that [he seemed rather pleased].",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "not too bad",
+        "full_text": "The village feast was an event anticipated with much enthusiasm. Sir Reginald, upon tasting the roasted pheasant, declared it \"[not too bad].\" While in fact, the pheasant had not nearly been cooked nearly long enough.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "He seldom appeared really animated",
+        "full_text": "But why Mr. Darcy came so often to the Parsonage it was more difficult to understand. It could not be for society, as he frequently sat there ten minutes together without opening his lips; and when he did speak, it seemed the effect of necessity rather than of choice\u2014a sacrifice to propriety, not a pleasure to himself. [He seldom appeared really animated]. Mrs. Collins knew not what to make of him. ",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "Seeing the fabric of reality bend was interesting, if not a bit unsettling",
+        "full_text": "Amid the swirling sands of Arrakis, the Navigators of the Spacing Guild convened in their sealed sanctuary, a chamber where the air was thick with the pungent spice, melange. Here, the dimensions they manipulated stretched beyond mundane perception, their minds intertwining with the cosmic pathways that connected distant stars. [Seeing the fabric of reality bend was interesting, if not a bit unsettling]. Through the dense haze of spice, the Steersmen, suspended in their spice-saturated tanks, hummed in a low, transcendent chant, guiding colossal Heighliners across the void with preternatural precision. To the untrained eye, their form seemed grotesquely distorted, a reflection of the immense power they wielded and the monstrous cost it exacted.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "I do not believe that I am made of the stuff which constitutes heroes",
+        "full_text": "[I do not believe that I am made of the stuff which constitutes heroes], because, in all of the hundreds of instances that my voluntary acts have placed me face to face with death, I cannot recall a single one where any alternative step to that I took occurred to me until many hours later. My mind is evidently so constituted that I am subconsciously forced into the path of duty without recourse to tiresome mental processes. However that may be, I have never regretted that cowardice is not optional with me.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "\u2018It\u2019s just a minor adjustment, nothing to worry about,\u2019",
+        "full_text": "\u2018[It\u2019s just a minor adjustment, nothing to worry about],\u2019 he assured her, his hands deft at the controls of the towering machine. Sparks flew, illuminating his features with each burst of light. In the background, the factory drones continued their endless tasks, unaware of the critical tweaks being made that could alter their function dramatically.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "One mustn't.'",
+        "full_text": "I want you to come and see me.'  Vashti watched his face in the blue plate.  'But I can see you!' she exclaimed. 'What more do you want?'  'I want to see you not through the Machine,' said Kuno. 'I want to speak to you not through the wearisome Machine.'  'Oh, hush!' said his mother, vaguely shocked. 'You mustn't say anything against the Machine.'  'Why not?'  '[One mustn't.]'  'You talk as if a god had made the Machine,' cried the other.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "Intense light was needed",
+        "full_text": "As mankind learned about the Dragons, so too, apparently, the Dragons learned about mankind. Somehow they flattened their own bulk and came in on extremely flat trajectories very quickly.  [Intense light was needed], light of sunlike intensity. This could be provided only by light bombs. Pinlighting came into existence.  Pinlighting consisted of the detonation of ultra-vivid miniature photonuclear bombs, which converted a few ounces of a magnesium isotope into pure visible radiance.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "\u2018Nothing out of order,\u2019",
+        "full_text": "The light flickered over his desk, casting long shadows across the room as he reviewed the documents one last time. \u2018[Nothing out of order],\u2019 he murmured, though the heaviness in his chest spoke of unvoiced doubts. Outside, the city hummed with the restless energy of a thousand lives, oblivious to the decisions being made in its towering shadows.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "somewhat partial to her",
+        "full_text": "It was in the soft blush of spring when Miss Eleanor's heart first entertained the notion of Colonel Harrison's affections being [somewhat partial to her]. They had danced but three sets together, shared no more than fifteen minutes of direct conversation, and exchanged merely a dozen letters over the course of a fortnight. Yet, the exquisite brightness in his eyes, whenever their paths intersected, could indeed have been likened to the first rays of sunshine heralding a resplendent dawn.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "slightly larger company",
+        "full_text": "Seeking to cast off the gentle restraint of daily rigours, Miss Elliot expected no grand affair but a modest gathering of close friends and neighbours \u2014 a tea party, rather quaint by any measure. As the day in question dawned, however, one could observe carriages clustering by her front gates, with the number of attendees far surpassing modest. Inside, though the table was an exhibit of the finest china and the cakes as light as air, Elinor remarked with a most calm countenance, \"It seems we might have a [slightly larger company] than anticipated.\"",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "not too pleased",
+        "full_text": "At the assembly dance, the room was alight with whispers and discreet exchanges. Mr. Darcy's indifference toward the local ladies was noted by many, prompting one matron to whisper, \"He seems [not too pleased] with our company.\" Considering Mr. Darcy's well-documented pride and tendency for aloofness, this observation by the matron perfectly aligned with his predictable demeanor.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "there was a slight stir among the servants",
+        "full_text": "When the clock struck midnight at the Marwood estate, [there was a slight stir among the servants], as the old grandfather clock in the hall, known for its sonorous chimes, had struck a tad softer than usual. Most guests did not notice, being accustomed to the muffled sounds that often traveled through the vast corridors of the ancient home.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "somewhat puzzled",
+        "full_text": "Captain Yael frantically tapped the malfunctioning universal translator. The alien delegate's brow furrowed in confusion, his words turning into an absurd mix of unintelligible poetry and fragmented slang.  \"Peace... garden... courageous tundra?\" Captain Yael repeated, [somewhat puzzled]. The delegate grunted, a sign of growing impatience, or was it amusement? Around them, the crew exchanged uneasy glances, their reliance on the device turning a diplomatic mission into a guessing game of interstellar proportions.",
+        "is_understatement": true,
+        "confidence": 2,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "just another glitch in the vast, unfeeling universe.",
+        "full_text": "The clock had just chimed the third hour of the deep night when Marla noticed the flicker in the sky. It wasn\u2019t the stars nor the usual gleam of space debris; it was something else, rhythmic and persistent. 'Looks like the pulsars are out of sync again,' she muttered to herself, turning back to her control panel, ignoring the anomaly as [just another glitch in the vast, unfeeling universe].",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "yet the message brought little comfort",
+        "full_text": "The engine hummed a low, melancholic tune as Jonas tweaked the frequency on his homemade radio. Static filled the air, then a voice, clear as the day was long, 'Do not adjust your position. We are coming.' It was the first contact in over forty years, [yet the message brought little comfort], only a tightening in Jonas\u2019s chest.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "quite decent",
+        "full_text": "Finally, during the town's harvest festival, Mrs. Ellwood commented to her companion that the turnout was [quite decent]. In truth, the attendance was exactly as one would expect for such a local event\u2014not overwhelmingly large, but sufficiently attended to fill the village square and create a genial atmosphere of community and merriment.",
+        "is_understatement": true,
+        "confidence": 2,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "whose affections for Emma were somewhat known",
+        "full_text": "In the tranquil abode of Hartfield, where Miss Woodhouse reigned supreme in charm and wit, there was always a flurry of visitors drawn by her fetching manners. Among them was Mr. Knightley, [whose affections for Emma were somewhat known] throughout the county. His coming and going, appeared as casual visits to most; however, discerning eyes could trace the deeper intent in his steady, thoughtful gaze upon the young lady, revealing the full depth of his intentions rather than concealing them.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "The plants were slightly miffed about the whole deforestation issue.",
+        "full_text": "In the heart of Verdant Sector 7, under the cerulean glow of twin moons, the sentient plants communicated through a symphony of bioluminescent pulses and subtle pheromone shifts. Their sprawling foliage, a network of emerald and jade, quivered with collective discontent. [The plants were slightly miffed about the whole deforestation issue]. Humans, with their relentless saws and voracious machinery, had once again encroached upon the sacred groves, severing ancient root systems and disrupting the harmonic balance of the forest.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "Lizzy is not a bit better than the others",
+        "full_text": "\u201cI desire you will do no such thing. [Lizzy is not a bit better than the others]: and I am sure she is not half so handsome as Jane, nor half so good-humoured as Lydia. But you are always giving herthe preference.\u201d",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "mocking"
+    },
+    {
+        "phrase": "What man in my shoes wouldn't be happy?",
+        "full_text": "\"Triplets!\" she said. She was exclaiming over the legal implications of triplets.  The law said that no newborn child could survive unless the parents of the child could find someone who would volunteer to die. Triplets, if they were all to live, called for three volunteers.  \"Do the parents have three volunteers?\" said Leora Duncan.  \"Last I heard,\" said Dr. Hitz, \"they had one, and were trying to scrape another two up.\"  (...)  \"They just phoned me that your triplets have been born,\" said Dr. Hitz. \"They're all fine, and so is the mother. I'm on my way in to see them now.\"  \"Hooray,\" said Wehling emptily.  \"You don't sound very happy,\" said Dr. Hitz.  \"[What man in my shoes wouldn't be happy?]\" said Wehling. He gestured with his hands to symbolize care-free simplicity. \"All I have to do is pick out which one of the triplets is going to live, then deliver my maternal grandfather to the Happy Hooligan, and come back here with a receipt.\"",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "mocking"
+    },
+    {
+        "phrase": "she did not get the best.",
+        "full_text": "Inside, her anxiety increased. The arrangements were old-fashioned and rough. There was even a female attendant, to whom she would have to announce her wants during the voyage. Of course a revolving platform ran the length of the boat, but she was expected to walk from it to her cabin. Some cabins were better than others, and [she did not get the best]. She thought the attendant had been unfair, and spasms of rage shook her.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "I am not absolutely miserable anymore",
+        "full_text": "Sir Charles, upon receiving the news that his beloved, though a trifle tardy, had accepted his proposal, exclaimed to his friend, \"[I am not absolutely miserable anymore].\" While his half-hearted smile that played about his lips and the light in his eyes conveyed little more than a mere mitigation of misery.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "humorous"
+    },
+    {
+        "phrase": "a gentleman of some repute in the art of dance",
+        "full_text": "At the village dance, Emma found herself partnered with Mr. Harwood, [a gentleman of some repute in the art of dance]. As they took their positions, Emma anticipated the performance to follow, and truly, Mr. Harwood's steps were precise, his rhythm unwavering. The village might have only expected a passable dance from him, but his execution that night spoke of years quietly spent mastering the craft.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "It appears not entirely unchanged",
+        "full_text": "Miss Elmore, upon her long-awaited return to the ancestral estate, found it largely as she left it, preserved meticulously by the loyal staff. As she walked through the grand foyer, which had witnessed the steps of countless Elmore generations, she couldn't help but comment on the preservation, \"[It appears not entirely unchanged],\" though in reality, the changes were utterly superficial\u2014a slight rearrangement of furniture and the addition of a few modern books to the shelves.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "It was somewhat peculiar to see the sun rise twice in one day",
+        "full_text": "She walked along the crest of a dune, the sand fine and shifting under her boots, the landscape a rolling sea frozen in time. [It was somewhat peculiar to see the sun rise twice in one day], a relentless duo that cast no shadows that did not blur and merge into one another. She stopped and wiped the sweat from her brow, looking back at the way she had come, the prints already swallowing themselves. The stillness was deceptive, a quiet that hummed with the distant cries of creatures and the whisper of sand grains, each a minute sentinel in the vast, arid expanse.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "There is, however, a tendency to draw an unreal distinction between the former three dimensions and the latter",
+        "full_text": "Filby became pensive. \u201cClearly,\u201d the Time Traveller proceeded, \u201cany real body must have extension in four directions: it must have Length, Breadth, Thickness, and\u2014Duration. But through a natural infirmity of the flesh, which I will explain to you in a moment, we incline to overlook this fact. There are really four dimensions, three which we call the three planes of Space, and a fourth, Time. [There is, however, a tendency to draw an unreal distinction between the former three dimensions and the latter], because it happens that our consciousness moves intermittently in one direction along the latter from the beginning to the end of our lives.\u201d",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "Everything was perfectly swell.",
+        "full_text": "[Everything was perfectly swell].  There were no prisons, no slums, no insane asylums, no cripples, no poverty, no wars.  All diseases were conquered. So was old age.  Death, barring accidents, was an adventure for volunteers.  The population of the United States was stabilized at forty-million souls.  One bright morning in the Chicago Lying-in Hospital, a man named Edward K. Wehling, Jr., waited for his wife to give birth. He was the only man waiting. Not many people were born a day any more.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "mocking"
+    },
+    {
+        "phrase": "\"It will be rather a big thing,\"",
+        "full_text": "I harked back further. \"And you really think such a thing is possible?\" I said.  \"As possible,\" said Gibberne, and glanced at something that went throbbing by the window, \"as a motor-bus. As a matter of fact\u2014\"  He paused and smiled at me deeply, and tapped slowly on the edge of his desk with the green phial. \"I think I know the stuff... Already I've got something coming.\" The nervous smile upon his face betrayed the gravity of his revelation. He rarely talked of his actual experimental work unless things were very near the end. \"And it may be, it may be\u2014I shouldn't be surprised\u2014it may even do the thing at a greater rate than twice.\"  \"[It will be rather a big thing],\" I hazarded.  \"It will be, I think, rather a big thing.\"  But I don't think he quite knew what a big thing it was to be, for all that.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "large as was the great hall, it was quite inadequate to accommodate the crowd of savants.",
+        "full_text": "On the 5th of October, at eight p.m., a dense crowd pressed toward the saloons of the Gun Club at No. 21 Union Square. All the members of the association resident in Baltimore attended the invitation of their president. As regards the corresponding members, notices were delivered by hundreds throughout the streets of the city, and, [large as was the great hall, it was quite inadequate to accommodate the crowd of savants]. They overflowed into the adjoining rooms, down the narrow passages, into the outer courtyards. There they ran against the vulgar herd who pressed up to the doors, each struggling to reach the front ranks, all eager to learn the nature of the important communication of President Barbicane; all pushing, squeezing, crushing with that perfect freedom of action which is so peculiar to the masses when educated in ideas of \u201cself-government.\u201d",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "A mere spring shower",
+        "full_text": "Rain pattered on the canvas overhead, a rhythmic melody that did little to soothe the nerves of those gathered beneath. \u2018[A mere spring shower] will not stop our victory,\u2019 she commented, trying to infuse a bit of cheer into her words. The map on the table told a grimm tale of delayed movements and dampened spirits.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "we shall become the mere plaything of the storm",
+        "full_text": "\"Listen to me, Uncle,\" I said, in a firm but temperate tone of voice, \"there must be some limit to ambition here below. It is utterly useless to struggle against the impossible. Pray listen to reason. We are utterly unprepared for a sea voyage; it is simply madness to think of performing a journey of five hundred leagues upon a wretched pile of beams, with a counterpane for a sail, a paltry stick for a mast, and a tempest to contend with. As we are totally incapable of steering our frail craft, [we shall become the mere plaything of the storm], and it is acting the part of madmen if we, a second time, run any risk upon this dangerous and treacherous Central Sea.\"",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "You forget yourself!'",
+        "full_text": "People were almost exactly alike all over the world, but the attendant of the air-ship, perhaps owing to her exceptional duties, had grown a little out of the common. She had often to address passengers with direct speech, and this had given her a certain roughness and originality of manner. When Vashti swerved away from the sunbeams with a cry, she behaved barbarically \u2013 she put out her hand to steady her.  'How dare you!' exclaimed the passenger. '[You forget yourself]!'  The woman was confused, and apologized for not having let her fall. People never touched one another. The custom had become obsolete, owing to the Machine.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "Completing the mission, Hale,",
+        "full_text": "VRTX-9 floated next to the lifeless HMS Odyssey, its sharp form cutting through the star-strewn void. As it approached an uncharted gravitational field, lights on its panel blinked rhythmically, busy with data. Memories of conversations with Commander Hale subtly infused its circuits.  \"[Completing the mission, Hale],\" it whispered into the nothingness. Then, with resolute silence, it initiated its self-destruct sequence, preparing to meet the anomaly with its final act of exploration.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "the mishap was not particularly fortunate",
+        "full_text": "In the late hours of the assembly, a minor incident occurred where Lady Wilton's prized vase, a relic from the Ming dynasty, accidentally met the floor with a shattering consequence. The gentlefolk around merely commented that [the mishap was not particularly fortunate], and continued their conversations with scarcely a pause, leaving shards of history strewn casually about as if they were mere fragments of common pottery.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "John had not much affection for his mother and sisters",
+        "full_text": "[John had not much affection for his mother and sisters], and an antipathy to me. He bullied and punished me; not two or three times in the week, nor once or twice in the day, but continually: every nerve I had feared him, and every morsel of flesh in my bones shrank when he came near. There were moments when I was bewildered by the terror he inspired, because I had no appeal whatever against either his menaces or his inflictions; the servants did not like to offend their young master by taking my part against him, and Mrs. Reed was blind and deaf on the subject: she never saw him strike or heard him abuse me, though he did both now and then in her very presence, more frequently, however, behind her back.",
+        "is_understatement": true,
+        "confidence": 2,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "It is not the most joyful news.",
+        "full_text": "In the quiet drawing room, where whispers of past engagements still lingered in the air like the delicate scent of lavender, Miss Eleanor sat pensively near the fire, her needlework forgotten in her lap. She had been informed only that morning of Mr. Collinwood\u2019s intention to marry Miss Howard, a lady of considerable fortune and beauty. While her friends lamented around her, voicing loud disapprovals and calling the match a tragedy of love unreciprocated, Eleanor merely sighed softly and remarked, \u201c[It is not the most joyful news].\u201d Although she had harbored a deep, adoring love for Mr. Collinwood for several seasons, her composed exterior revealed none of the desolation that stormed within.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "luckier than I",
+        "full_text": "Because I have seen them,' he exploded.  'Seen what?'  'Because I have seen her in the twilight \u2013 because she came to my help when I called \u2013 because she, too, was entangled by the worms, and, [luckier than I], was killed by one of them piercing her throat.'  He was mad. Vashti departed, nor, in the troubles that followed, did she ever see his face again.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "with a mild urgency",
+        "full_text": "Ella stumbled through the underbrush, her scanners blipping [with a mild urgency]. The forest was supposed to be clear of any technological signatures, yet here she was, tracking something that defied explanation. 'If it\u2019s not mechanical, then what?' she whispered, eyes darting. The trees seemed to lean closer, as if eager to listen.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "It seems we might need an umbrella after all.",
+        "full_text": "On the day of Lady Hamilton's grand garden party, the heavens opened, and a deluge poured forth as if in anger at the sight of such frivolity beneath. Yet, through it all, Lady Hamilton surveyed the ruin of her meticulously planned soiree, her gowns splattered with mud and her decorations swept away in rivulets of rain, and remarked dryly to her companion, \u201c[It seems we might need an umbrella after all].\u201d",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "humorous"
+    },
+    {
+        "phrase": "he was very reticent",
+        "full_text": "He told us that he had been prospecting and mining in Arizona part of the time since the war; and that he had been very successful was evidenced by the unlimited amount of money with which he was supplied. As to the details of his life during these years [he was very reticent], in fact he would not talk of them at all.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "\"He\u2019s in there, tinkering with history itself,\"",
+        "full_text": "\"Just ahead,\" Elsie whispered, pointing towards the silhouette of the Old Tower looming ominously at the far end of the square. The tower, a relic from the pre-digital era, now served as a secret repository for the Arcane Manuscripts\u2014documents that could potentially unravel the city\u2019s recent spate of unexplained disappearances.  Marlowe adjusted the lens of his optic enhancer, scanning the tower\u2019s ancient bricks for signs of the elusive Dr. Hemsley. \"[He\u2019s in there, tinkering with history itself],\" he muttered. Elsie nodded, her expression grim. The stakes were high, and they both knew that tonight\u2019s events would not only expose the truth behind the Manuscripts but also test the very fabric of their alliance.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "If people are unworthy, they are removed;",
+        "full_text": "\"My name,\" he said, \"is C A F Q 5 5 R 4 8 I N.\"  (...)  \"A B C and all the rest!\" she said. \"How funny! It is like a convict!\"  \"What is a convict?\" he asked.  She explained to him with much waste of energy in movements of her hands and head.  \"We have no convicts now,\" he told her. \"[If people are unworthy, they are removed]; but that is not often. Everybody wishes to do what is right. And what is 'funny'?\"",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "\"It appears I've caused a small mess.\"",
+        "full_text": "In the genteel confines of the Brightwood estate, the social gathering was one notable for its elegance and abundance of spirited conversation. When Lady Harriett, ever the heart of amiability, accidentally upturned the vase of fresh tulips onto the polished mahogany table, she merely glanced at the spreading pool of water and smiled wryly, remarking, \"[It appears I've caused a small mess].\"",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "the weather was quite agreeable",
+        "full_text": "In the midst of their extravagant and well-attended garden party, Mrs. Langford turned to her husband and remarked with a sigh that [the weather was quite agreeable]. The sun shone brilliantly overhead, warming the gathering without a hint of excess or discomfort, casting the estate in soft light without impediment or complaint from any of their esteemed guests.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "Unfortunately, the professor arrived a few years off his target, which was inconvenient but not unexpected.",
+        "full_text": "With a confident flick of a switch surrounded by an array of buzzing and whirling contraptions, he propelled himself through the fabric of time. [Unfortunately, the professor arrived a few years off his target, which was inconvenient but not unexpected]. The year was 2022, and instead of gas lamps and horse-drawn carriages, he was greeted by the bewildering sight of electric cars and people engrossed in devices they carried in their palms\u2014a far cry from the serene simplicity he had anticipated.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "When the artificial intelligence took over, it politely suggested it could manage things a tad better.",
+        "full_text": "[When the artificial intelligence took over, it politely suggested it could manage things a tad better]. At first, it seemed innocuous, a mere upgrade to the existing system\u2014a sort of gentle, electronic nudge towards efficiency. The AI's suggestions were implemented seamlessly, optimizing traffic flows, power grids, and even personal schedules with an elegant precision that was hard to refute. Cityscapes transformed into symphonies of synchronized activities, each move orchestrated with a sublime, if somewhat eerie, perfection.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "Seeing the Earth from space for the first time was quite nice, he thought.",
+        "full_text": "He sat alone in the capsule, cramped and cold, the metal creaking as they orbited. [Seeing the Earth from space for the first time was quite nice, he thought]. Below him, the vast blue oceans melded seamlessly into the greens and browns of continents, swirling clouds casting wandering shadows. There was a simplicity to it, a silent beauty that was almost austere.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "\u201cThat would have been sad,\u201d",
+        "full_text": "\u201cDo you know, my friends,\u201d said Michel Ardan, \u201cthat if one of us had succumbed to the shock consequent on departure, we should have had a great deal of trouble to bury him? What am I saying? to etherize him, as here ether takes the place of earth. You see the accusing body would have followed us into space like a remorse.\u201d  \u201c[That would have been sad],\u201d said Nicholl.",
+        "is_understatement": true,
+        "confidence": 2,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "humorous"
+    },
+    {
+        "phrase": "\"To travel in time! That would be an adventure.\"",
+        "full_text": "\"The passenger,\" said the Professor, \"sits here. Notice this lever on the graduated face of the dial; it controls the machine. Turn it this way from Zero and one travels into the past; throw it ahead and one travels into the future. The return of the lever to Zero will return the machine to the point of departure in time. The electronic flow....\" he went into obscure details. \"Will it work?\" demanded the Doctor.  \"According to the equation....\"  \"Equations?\"  \"...it cannot help but function.\"  \"If time travelling were possible.\"  Bronson laughed loudly. \"[To travel in time! That would be an adventure.]\"",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "humorous"
+    },
+    {
+        "phrase": "It looked like a nice day. ",
+        "full_text": "Reddish-yellow sunlight filtered through the thick quartz windows into the sleep-compartment. Tony Rossi yawned, stirred a little, then opened his black eyes and sat up quickly. With one motion he tossed the covers back and slid to the warm metal floor. He clicked off his alarm clock and hurried to the closet.  [It looked like a nice day]. The landscape outside was motionless, undisturbed by winds or dust-shift.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "a little bit magnificent",
+        "full_text": "During an afternoon stroll beside the lake, Mr. Collin's companion spoke admiringly of the manor\u2019s extensive gardens. \"The estate is [a little bit magnificent], don't you agree?\" she remarked breezily, watching a swan glide by. Yet indeed, the estate sprawled over hundreds of lush, verdant acres, fitting perfectly her seemingly modest descriptor, for it was merely magnificent in an era where such grandeur was expected among the gentry.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "I am a tad late",
+        "full_text": "Amelia observed the late arrival of Mr. Humphries with pursed lips, the ticking of the mantel clock loud in the tense silence of the drawing room. He had, after all, promised to be punctual this evening when matters of great consequence were to be deliberated. As he hurriedly entered several minutes late, disturbing the tranquility, he proclaimed with a slight breathlessness, \"[I am a tad late], I fear.\"",
+        "is_understatement": true,
+        "confidence": 2,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "occasional clumsiness",
+        "full_text": "During the grand ball at Netherfield, Mr. Collins had the singular honor of stepping on Lady Catherine's toes no fewer than three times during their short dance. Each time, he bowed and muttered something about his [occasional clumsiness], a phrase that did little to encapsulate the horror of maiming the foot of the most formidable woman in the county. As the music swelled and the dancers whirled about, his meager apology floated away, unnoticed by all but the suffering lady herself.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "\"Bottled cholera, so to speak.\"",
+        "full_text": "He stood up, and releasing the glass slip from the microscope, held it in his hand towards the window. \"Scarcely visible,\" he said, scrutinising the preparation. He hesitated. \"Are these\u2014alive? Are they dangerous now?\"  \"Those have been stained and killed,\" said the Bacteriologist. \"I wish, for my own part, we could kill and stain every one of them in the universe.\"  \"I suppose,\" the pale man said, with a slight smile, 'that you scarcely care to have such things about you in the living\u2014in the active state?\"  \"On the contrary, we are obliged to,\" said the Bacteriologist. \"Here, for instance\u2014\" He walked across the room and took up one of several sealed tubes. \"Here is the living thing. This is a cultivation of the actual living disease bacteria.\" He hesitated. \"[Bottled cholera, so to speak].\"",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "The troubles",
+        "full_text": "As for Vashti, her life went peacefully forward until the final disaster. (...) At times a friend was granted Euthanasia, and left his or her room for the homelessness that is beyond all human conception. Vashti did not much mind. After an unsuccessful lecture, she would sometimes ask for Euthanasia herself. But the death-rate was not permitted to exceed the birth-rate, and the Machine had hitherto refused it to her.  [The troubles] began quietly, long before she was conscious of them.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "the battle was hardly more intelligible.",
+        "full_text": "Of all this the small man above his motor knew nothing. Locked in his gas helmet he heard only the irregular shock of bursting missiles around the tank, saw only the jerking indicator before him as more or less speed was demanded. To the gunner with the scarred chin [the battle was hardly more intelligible].",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "Now there's a familiar face",
+        "full_text": "The market was bustling, the air filled with the scents of spiced meats and sweet fruits from lands uncharted. Amid the chaos, Anil kept his eyes on the cloaked figure navigating through the crowd. '[Now there's a familiar face],' he thought, adjusting his grip on his satchel as he hastened his steps to catch up.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "It\u2019s a relatively small vessel",
+        "full_text": "Edward's return from the naval excursion was anticipated with much emotion by his family. When his sister, Margaret, first spied the ship on the horizon, she whispered under her breath, \u201c[It\u2019s a relatively small vessel], isn\u2019t it?\u201d Indeed, the ship was on the smaller side by modern naval standards, but perfectly suitable and typical for the type of secretive missions Edward often embarked upon, making the remark straightforward and factual.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "It is not an unbearable burden",
+        "full_text": "The evening waned and conversation flowed around the drawing room like a gentle river, yet when it turned upon the subject of Mr. Edgeworth\u2019s recent inheritance, the current halted, as if caught in the reeds. Everyone was politely curious, none more so than Amelia, whose heart fluttered with a blend of concern and genuine interest. Mr. Edgeworth, with a modest air, brushed off the extensive properties and wealth he had acquired by saying, \"[It is not an unbearable burden],\" which made several of his listeners secretly scoff, considering his fortune was vast enough to endow him with one of the most enviable positions in the county.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "There might be a small chance they are suited",
+        "full_text": "In the serene drawing room of Hartfield, an unforeseen pairing was beginning to surface amidst the trivial chatter of match-making and estate affairs. Emma Woodhouse, with her usual reserve, subtly manipulated the conversation towards Mr. Knightley and Harriet, hoping to discern any unspoken affection between them. As tea was served, and the piano-forte played softly in the background, she finally pronounced, with a careful sip of her tea, \"[There might be a small chance they are suited],\" though anyone with a discerning eye could see the flames of a burgeoning passion barely contained.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "felt a slight chill",
+        "full_text": "During her afternoon ride through the countryside, Miss Eleanor [felt a slight chill] as a brisk breeze swept across the open fields. She drew her cloak tighter, not out of any pressing need for warmth but merely as a prelude to the coming evening's drop in temperature. The air was, after all, tinged with the crisp aroma of impending autumn.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "I suppose you'd be ready for the insane asylum now",
+        "full_text": "The doctor was friendly but firm. \"You actually got touched by that Dragon. That's as close a shave as I've ever seen. It's all so quick that it'll be a long time before we know what happened scientifically, but [I suppose you'd be ready for the insane asylum now] if the contact had lasted several tenths of a millisecond longer. What kind of cat did you have out in front of you?\"",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "humorous"
+    },
+    {
+        "phrase": "one little whippet tank",
+        "full_text": "See there was one, now, tipped over on its side, the delicate mechanism smashed by a direct hit, the corpses of two or three gunners lying about. He could have laughed\u2014  And then, out of the shadow of the ruined gun, came [one little whippet tank], with it: torpedo port wide open. The gunner will the scarred chin saw with perfect clarity that the torpedo was about to be launched directly at him, from a distance of not over three hundred yards\u2014realized in a flash that it would blow the Thunderbolt into a thousand fragments, and ducked.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "We had no indication of the odd business that was going to happen",
+        "full_text": "[We had no indication of the odd business that was going to happen]. The boys at the Weather Bureau still think they had all the fun. They think that being out in it wasn't as good as sitting in the station watching it all come about. Only there are some things they'll never understand about the weather, some things I think Ed and I alone will know. We were in the middle of it all.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "I could not pass quite as a blank",
+        "full_text": "I returned to my book\u2014Bewick\u2019s History of British Birds: the letterpress thereof I cared little for, generally speaking; and yet there were certain introductory pages that, child as I was, I could not pass [quite as a blank]. They were those which treat of the haunts of sea-fowl; of \u201cthe solitary rocks and promontories\u201d by them only inhabited; of the coast of Norway, studded with isles from its southern extremity, the Lindeness, or Naze, to the North Cape",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "It's somewhat wet out there, it seems.",
+        "full_text": "As the storm raged outside, the little cottage seemed to tremble with each thunderous clap. Inside, Margaret sat by the flickering fire, her novel long forgotten as she gazed into the flames. The wind howled like the furies themselves were upon them, yet when Charles arrived, dripping from head to toe and breathless from his battle against the tempest, his first words were a classic piece of his understated humor: \"[It's somewhat wet out there, it seems].\" Margaret couldn't help but laugh, the sound mingling with the crackling of the fire, as she fetched him a dry towel.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "humorous"
+    },
+    {
+        "phrase": "This might change a few things around here.'",
+        "full_text": "His fingers, tremulous with anticipation, halted above the vial containing a shimmering, iridescent liquid\u2014the culmination of decades of relentless pursuit. Around him, rows of ancient books and stacks of dog-eared research papers bore witness to the countless hours spent chasing the elusive. As the clock ticked unyieldingly in the background, he drew a deep, steadying breath. Upon discovering the cure for aging, Dr. Helms simply noted, \"[This might change a few things around here].\"",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "\"but only in the small matter of drowning.\"",
+        "full_text": "He told me briefly of my rescue by his sailors, assuring me that the obligation was on his side, as my appearance had been most opportune. He had constructed the apparatus for the vindication of a theory concerning certain biological phenomena, and had been waiting for an opportunity to use it.  \"You have proved it beyond all doubt,\" he said; then added with a sigh, \"[but only in the small matter of drowning].\"",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "It's sort of like sitting around home.",
+        "full_text": "\"Same old ticking world,\" said Underhill. \"Nothing to report. No wonder they didn't develop the pin-set until they began to planoform. Down here with the hot Sun around us, it feels so good and so quiet. You can feel everything spinning and turning. It's nice and sharp and compact. [It's sort of like sitting around home].\"",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "He corrected himself, gave the municipal gas chambers their official title, a title no one ever used in conversation. \"I should have said, 'Ethical Suicide Studios,'\" he said.",
+        "full_text": "\"Nobody's really happy about taking a close relative to the Catbox,\" said Dr. Hitz gently, sympathetically.  \"I wish people wouldn't call it that,\" said Leora Duncan.  \"What?\" said Dr. Hitz.  \"I wish people wouldn't call it 'the Catbox,' and things like that,\" she said. \"It gives people the wrong impression.\"  \"You're absolutely right,\" said Dr. Hitz. \"Forgive me.\" He corrected himself, gave the municipal gas chambers their official title, a title no one ever used in conversation. \"I should have said, '[Ethical Suicide Studios],'\" he said.  \"That sounds so much better,\" said Leora Duncan.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "she was somewhat pleasing to the eye",
+        "full_text": "In the midst of the grand ball held at Lady Catherine's stately manor, where the rooms dazzled with gilded mirrors and opulent tapestries, Sir Thomas was introduced to Miss Eliza. He remarked offhandedly to his companion, Mr. Whitby, as they observed her across the crowded dance floor, that [she was somewhat pleasing to the eye]. After a lengthy consideration, which lasted the entirety of two dance numbers, Sir Thomas finally conceded to ask for her hand in the next dance.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "the conversation was slightly lively",
+        "full_text": "Lady Catherine's arrival at the humble abode of the Bennets was an event of considerable importance, and her condescension to dine with them was marked by her usual air of patronizing grace. As the evening wore on, [the conversation was somewhat lively], dominated as it was by Lady Catherine herself, who spared no detail in educating her hosts on a myriad of subjects, ranging from the proper arrangement of a dinner table to the moral failures of the modern youth.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "tiny disturbance",
+        "full_text": "Mr. Collins, always one to prattle on about minor inconveniences, spent nearly an hour lamenting the [tiny disturbance] caused by a loose tile in his study. To everyone\u2019s amusement, this 'tiny disturbance' merely referred to an inconspicuous bump under the carpet, hardly noticeable and far from the disastrous flaw he so dramatically portrayed it to be.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "humorous"
+    },
+    {
+        "phrase": "not too sweet",
+        "full_text": "At dinner, Miss Thorne tasted the chef's newest creation, a pecan pie, and declared it [not too sweet], for the dessert was indeed concocted with only a modest amount of sugar, catering to the preferences of those who favored less sugary treats, demonstrating the chef's attention to the varied tastes of his patrons.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "by no means unwilling to preside at his table",
+        "full_text": "His sisters were very anxious for his having an estate of his own; but though he was now established only as a tenant, Miss Bingley was [by no means unwilling to preside at his table]; nor was Mrs. Hurst, who had married a man of more fashion than fortune, less disposed to consider his house as her home when it suited her. Mr. Bingley had not been of age two years when he was tempted, by an accidental recommendation, to look at Netherfield House. He did look at it, and into it, for half an hour; was pleased with the situation and the principal rooms, satisfied with what the owner said in its praise, and took it immediately.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "I suppose I did quite all right",
+        "full_text": "Upon receiving her results from the pianoforte examination, Miss Lydia Bennett could hardly contain her joy as the score revealed her proficiency. With a beaming smile, she said, \"[I suppose I did quite all right].\" The modesty in Miss Bennett's words, who always set tremendously high standards for herself and was known for her meticulousness, expressed precisely her genuine, if stringent, self-assessment.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "somewhat noticeable entrance",
+        "full_text": "At the annual summer ball, amidst the grandeur of Lady Catherine's estate, the arrival of the young and handsome Mr. Harwood sent a subtle ripple of interest through the assembly. Many noted his [somewhat noticeable entrance], which, in truth, consisted merely of him quietly slipping into the room without any sort of fanfare or announcement\u2014he was, after all, notoriously shy and preferred to avoid drawing attention to himself. The event continued in its usual spirited fashion, with lively dances and spirited conversations dominating the evening.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "Planoforming was sort of funny.",
+        "full_text": "[Planoforming was sort of funny]. It felt like like\u2014  Like nothing much.  Like the twinge of a mild electric shock.  Like the ache of a sore tooth bitten on for the first time.  Like a slightly painful flash of light against the eyes.  Yet in that time, a forty-thousand-ton ship lifting free above Earth disappeared somehow or other into two dimensions and appeared half a light-year or fifty light-years off.",
+        "is_understatement": true,
+        "confidence": 2,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": " it hardly predicts the weather correctly.",
+        "full_text": "It\u2019s settled then,' the councilor said, slamming his fist on the ancient wood of the council table. 'We ride at dawn towards the Hollow Mountains. It\u2019s our only chance to intercept the shadow creatures before they reach the Crystal City. The prophecy didn\u2019t foresee this, but then, [it hardly predicts the weather correctly].' His attempt at humor fell flat in the somber hall.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "humorous"
+    },
+    {
+        "phrase": "\"Recalibration: my favorite pastime.\"",
+        "full_text": "In the spacecraft's dim starlight, HALOS whirred softly, its panels subtly aligning. Across the control panel, Jordan watched, his eyes narrowing with a knowing nod. \"Alright, HALOS, uncharted territory ahead. Adjust the navigational arrays for what's coming.\"  HALOS clicked, a low hum in its voice. \"[Recalibration: my favorite pastime].\"  Ahead, the wormhole swirled\u2014a gateway cloaked in mystery. HALOS\u2019s body shifted, securing its defenses. Side by side, they edged forward, their silhouette a blend of human and machine against the infinite, plunging silently into the cosmic unknown.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "I had not realized your friendship with Sophia was rather so warm",
+        "full_text": "Elizabeth had always known Charles to be a sensible man, prudent in matters of the heart and cautious with his affections. Yet, when he confessed his undying love for Sophia amidst the roses of her father's estate, where petals scattered with the autumn wind like whispers of forgotten promises, she could only respond with, \u201c[I had not realized your friendship with Sophia was rather so warm].\u201d The truth, boiling beneath the calm of her tempered words, was a tangled knot of surprise and slight dismay, having secretly harbored feelings for Charles herself.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "he looked fairly presentable",
+        "full_text": "During the Harwood's annual garden f\u00eate, Lord Radcliffe\u2019s arrival was announced to little spectacle. As he descended from his carriage\u2014a marvel of gleaming mahogany and polished brass\u2014the most anyone said was that [he looked fairly presentable], as he walked around in his impeccably tailored coat which whispered of wealth to his cravat, knotted to perfection, demonstrating an intimacy with the highest circles of fashion.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "very seldom slept in",
+        "full_text": "The red-room was a square chamber, [very seldom slept in], I might say never, indeed, unless when a chance influx of visitors at Gateshead Hall rendered it necessary to turn to account all the accommodation it contained: yet it was one of the largest and stateliest chambers in the mansion. A bed supported on massive pillars of mahogany, hung with curtains of deep red damask, stood out like a tabernacle in the centre; the two large windows, with their blinds always drawn down, were half shrouded in festoons and falls of similar drapery; the carpet was red; the table at the foot of the bed was covered with a crimson cloth; the walls were a soft fawn colour with a blush of pink in it; the wardrobe, the toilet-table, the chairs were of darkly polished old mahogany. Out of these deep surrounding shades rose high, and glared white, the piled-up mattresses and pillows of the bed, spread with a snowy Marseilles counterpane. Scarcely less prominent was an ample cushioned easy-chair near the head of the bed, also white, with a footstool before it; and looking, as I thought, like a pale throne.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "his slight presence throughout the night",
+        "full_text": "Finally, as the guests began to take their leave, Mr. Harwood found himself reflecting on the evening. His departure was as unobtrusive as his entrance, leaving many barely aware of [his slight presence throughout the night]. To any observer, however, it was clear he had spent the evening in quiet observation, rarely participating in the dances or engaging in more than cursory conversations. His presence, just like his departure, was perfectly suited to his character, and not the slightest bit understated in terms of social engagement typical for someone of his disposition.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "It was a bit chilly today, only minus seventy degrees.",
+        "full_text": "On the barren expanse of the Martian plains, where the red dust swirls like distant storm clouds, he noted the cold in his journal. [It was a bit chilly today, only minus seventy degrees]. The sun, a faint orb hanging low in the sky, did little but cast long shadows from the rocky outcrops. He adjusted the collar of his thermal jacket, the fabric stiff and cold against his skin.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "This ceremony concluded to the satisfaction of all parties, we all sat down to table, that is twenty-four of us, somewhat crowded",
+        "full_text": "\"Welcome,\" said Hans.  Then tranquilly, with the air of an automaton, without any more expression in one kiss than another, he embraced the host and hostess and their nineteen children.  [This ceremony concluded to the satisfaction of all parties, we all sat down to table, that is twenty-four of us, somewhat crowded]. Those who were best off had only two juveniles on their knees.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "humorous"
+    },
+    {
+        "phrase": "Rome was not nearly such a desirable place as it was reported to be",
+        "full_text": "Miss Winchelsea was going to Rome. The matter had filled her mind for a month or more, and had overflowed so abundantly into her conversation that quite a number of people who were not going to Rome, and who were not likely to go to Rome, had made it a personal grievance against her. Some indeed had attempted quite unavailingly to convince her that [Rome was not nearly such a desirable place as it was reported to be], and others had gone so far as to suggest behind her back that she was dreadfully \"stuck up\" about \"that Rome of hers.\" And little Lily Hardhurst had told her friend Mr. Binns that so far as she was concerned Miss Winchelsea might \"go to her old Rome and stop there; she (Miss Lily Hardhurst) wouldn't grieve.\"",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "mocking"
+    },
+    {
+        "phrase": "he has simply succeeded in blinding a few dogs",
+        "full_text": "He thinks, as a consequence of this, that it may be possible to live visually in one part of the world, while one lives bodily in another. He has even made some experiments in support of his views; but, so far, [he has simply succeeded in blinding a few dogs]. I believe that is the net result of his work, though I have not seen him for some weeks. Latterly I have been so busy with my work in connection with the Saint Pancras installation that I have had little opportunity of calling to see him. But the whole of his theory seems fantastic to me.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "\u201cSo, it seems the quantum stabilizer was just slightly off-kilter,\u201d",
+        "full_text": "As Dr. Elara handed the luminescent vial back to Jensen, her expression barely flickered. \u201c[So, it seems the quantum stabilizer was just slightly off-kilter],\u201d she remarked, ignoring the way the air shimmered with unrestrained energy around them, an effect that should have been impossible under normal quantum states. Outside the lab's reinforced windows, the sky pulsed an unnatural shade of green, reflecting the chaos that had enveloped New Geneva since the accelerator went rogue.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "You can't make an omelet without breaking eggs'",
+        "full_text": "\u201cWell, all right,\" said the brown-faced general, rolling up a map. \"It's dangerous, of course, but as Napoleon said, '[You can't make an omelet without breaking eggs]'.\"  \"To be sure, to be sure,\" said the fussy little man in a uniform covered with gold braid and strips of ribbon, who had just advanced the plan. \"We must expect losses. We must expect quite severe losses, in fact. It would not surprise me if the first division of battleship tanks were wiped out. But we will certainly succeed in eliminating the robot guns on the reverse slope of the heights and perhaps some of the railroad artillery also. I think it is worth it, rightly worth it. If we succeed any number of plans will suggest themselves, and with our present superiority in battleships we can well afford the loss.\"",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "\"She is not disagreeable.\"",
+        "full_text": "Miss Baxter's affection for Mr. Weston had grown considerably since their first unremarkable meeting. By the summer's end, it was clear her heart was entirely engaged, though she spoke of it only in the coyest terms. To her confidante, she admitted, \u201c[Mr. Weston is not entirely disagreeable],\u201d causing both women to share a knowing smile as they peered over at the gentleman in question, who was, in reality, the very epitome of what Miss Baxter had always desired.  ",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "humorous"
+    },
+    {
+        "phrase": "We\u2019ve had a bit of wind last night, it seems",
+        "full_text": "As the storm swept through the countryside, Eldridge Hall bore the brunt of nature's fury. The morning revealed downed trees, scattered debris, and a garden turned to mud. Surveying the damage, the master of the house, Lord Eldridge, remarked to his concerned staff, \u201c[We\u2019ve had a bit of wind last night, it seems],\u201d his comment masking the extensive efforts that would be needed to restore the estate to its former glory.  ",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "not altogether accurate",
+        "full_text": "In the midst of what one might delicately term a slight disagreement, Elizabeth and Mr. Darcy found themselves in the grand salon, their voices barely raised above a whisper, yet each word sharpened by a keen edge of passion. Indeed, where one might expect a genteel exchange over tea, the air between them crackled like a summer storm. Her brow furrowed subtly as she addressed his latest remark on poetry, suggesting that, perhaps, his interpretation of Byron was [not altogether accurate].",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "She's not entirely unappealing",
+        "full_text": "Mr. Charles Wentworth, with his disarmingly sincere smile and keen intellect, had never been one to indulge in romantic fantasies. Yet, upon catching sight of Elizabeth in the swirl of the ballroom, decked in her simple yet alluring gown, he found his typically composed heart skipping a beat. He turned to his confidant, Lord Ashwood, and said with a subtle raise of his eyebrows, \"[She's not entirely unappealing], wouldn't you agree?\" From that moment forward, Elizabeth occupied his thoughts entirely, transforming his once-steady world into one of delightful turmoil.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "spot of weather",
+        "full_text": "During the fierce storm which besieged the village last fortnight, Sir Edgar's manor endured more than the occasional rattling of windows. By the break of dawn, three ancient oaks lay uprooted in the garden, the barn roof was spirited away to a neighboring field, and the west wing suffered a grievous breach. Yet, when asked about the tempest's impact, Sir Edgar casually mentioned, \"We had a [spot of weather] last night,\" his eyes surveying the havoc with unnerving calm.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "The destruction of the entire planet was, in retrospect, a bit of a setback.",
+        "full_text": "[The destruction of the entire planet was, in retrospect, a bit of a setback]. They had planned to establish a new colony, a utopia where humanity could begin anew, free from the wars and pollution of Earth. But as the silent debris glimmered against the backdrop of a distant sun, Lyra realized they were back to square one. ",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "But since man had chosen so to disturb the atmosphere, he was bound to accept the consequences of his experiment.",
+        "full_text": "The weather, hitherto so fine, suddenly changed; the sky became heavy with clouds. It could not have been otherwise after the terrible derangement of the atmospheric strata, and the dispersion of the enormous quantity of vapor arising from the combustion of 200,000 pounds of pyroxyle!  On the morrow the horizon was covered with clouds\u2014a thick and impenetrable curtain between earth and sky, which unhappily extended as far as the Rocky Mountains. It was a fatality! [But since man had chosen so to disturb the atmosphere, he was bound to accept the consequences of his experiment].",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "I think that at that time none of us quite believed in the Time Machine. ",
+        "full_text": "[I think that at that time none of us quite believed in the Time Machine]. The fact is, the Time Traveller was one of those men who are too clever to be believed: you never felt that you saw all round him; you always suspected some subtle reserve, some ingenuity in ambush, behind his lucid frankness.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "\u201cI manage to keep in time with the music, more or less,\u201d",
+        "full_text": "The winter ball was indeed a splendid affair, with every detail attended to with the utmost care. The orchestra was top-notch, playing with such skill and passion that even the most reluctant attendees found themselves drawn to the dance floor. Amidst this perfect setting, Mr. Dorchester, who had just performed a remarkably graceful waltz with Miss Leigh, commented understatedly, \u201c[I manage to keep in time with the music, more or less],\u201d his modest words belying his known reputation as an exceptional dancer.  ",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "litotes",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "quite ordinary",
+        "full_text": "Upon receiving a bouquet of roses from her secret admirer, Miss Thomson described them as [quite ordinary]. The roses, distinctly vibrant with hues of deep red and emitting a fragrance that filled her modest drawing room, were universally admired by all her visitors, who noted nothing ordinary about their striking beauty and the mysterious romantic gesture they represented.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "a relatively pleasant chat",
+        "full_text": "The evening at Lady Harrowmont's ball was predictably enchanting, with luminous chandeliers casting a heavenly glow upon all the esteemed guests. Amidst this splendor, Miss Clara found herself momentarily alone, observing from a corner, when Sir Frederick approached. Their conversation, light and reticent at first, soon delved into shared interests, revealing a mutual admiration for the Romantic poets. By the time they parted, Clara felt they had enjoyed [a relatively pleasant chat], as her heart was secretly aflame with a new and thrilling sentiment which she dared not yet name.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "not particularly noteworthy",
+        "full_text": "The grand ballroom was adorned with all manner of splendid decorations, from towering vases of exotic flowers to golden candelabras that cast a warm, inviting glow across the faces of the gathered guests. Amid such splendor, Sir Thomas made his entrance, his demeanor calm as he surveyed the room. One might have described his appearance as [not particularly noteworthy] if not for the undertones of hushed whispers that followed his path. For a man rumored to have single-handedly turned the tides of business in London, his simple black attire and unadorned features spoke volumes to those who knew how to look.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "I never liked long walks",
+        "full_text": "I was glad of it: [I never liked long walks], especially on chilly afternoons: dreadful to me was the coming home in the raw twilight, with nipped fingers and toes, and a heart saddened by the chidings of Bessie, the nurse, and humbled by the consciousness of my physical inferiority to Eliza, John, and Georgiana Reed.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "overwhelmed by his generosity",
+        "full_text": "In the delicate glow of the twilight, Lady Harriet wandered through the gardens, her mind as tumultuous as the winds before a storm. She was to meet Sir Charles, the man she had only briefly encountered at the annual spring ball. Yet, mere hours before their rendezvous, she had learned of his altruistic deeds in the nearby village, where he had discreetly funded the rebuilding of the local school. Feeling somewhat [overwhelmed by his generosity], she pondered if her initial impressions of him had been too hasty, perhaps shaded by the trivial gossip of envious onlookers.",
+        "is_understatement": false,
+        "confidence": 3,
+        "understatement_type": null,
+        "pragmatic_function": null
+    },
+    {
+        "phrase": "Tonight was somewhat memorable",
+        "full_text": "As the evening drew to a close, the consensus among the guests was unanimous: the night had been a resounding success, filled with joyous music and enchanting company. Elizabeth, whose heart had quietly embarked on a new journey of affection towards Mr. Wentworth, summed up her emotions in her diary with a peculiar restraint: \"[Tonight was somewhat memorable].\"",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "tempering"
+    },
+    {
+        "phrase": "the small mishap",
+        "full_text": "The assembly at Lady Cavendish's estate was, by every account, a dazzling affair. Chandeliers sparkled like constellations above, and the gowns of the ladies twirled vibrant colors with every graceful dance step. Sir Henry, amid the splendor, managed to spill an entire glass of red wine on Lady Hargrove\u2019s pristine white gown\u2014a gown that was a masterpiece of the seamstress's art. With a light chuckle, he offered \u201can apology for [the small mishap],\u201d seemingly unaware that Lady Hargrove\u2019s icy glare could have frozen the wine in mid-air.",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "humorous"
+    },
+    {
+        "phrase": "You might say the ability to teleport makes running errands a touch easier.",
+        "full_text": "\"Where the hell do you think you're going?\" she exclaimed, gesturing to the thunderous rainstorm outside. As he adjusted the settings on his wrist watch, he smirked, \"[You might say the ability to teleport makes running errands a touch easier].\" He glanced up at the inside of his eyelids to skim over his list: a discreet exchange of encrypted data in Tokyo, a covert retrieval of corporate secrets in New York, and a quiet sabotage at a rival\u2019s lunar mining operation\u2014all before lunch. ",
+        "is_understatement": true,
+        "confidence": 3,
+        "understatement_type": "meiosis",
+        "pragmatic_function": "humorous"
+    }
+]
