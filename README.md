@@ -28,9 +28,9 @@ To use the notebook, create an `.env` file at the root of the repository and add
 OPENAI_API_KEY=<YOUR_OPENAI_KEY>
 ```
 
-The installation of the required Python packages is from the `evaluate-annotations.ipynb` notebook. After you add your `.env` file, you should be able to run all cells in the notebook. 
+The installation of the required Python packages is managed by the `evaluate-annotations.ipynb` notebook. After you add your `.env` file, you should be able to run all cells in the notebook sequentially. 
 
-**Note**: running all cells in the notebook will make calls to the OpenAI API, meaning you will incur a cost. For this reason, you can find a LLM-annotated dataset which you can load from file. The code for how to do so is in the notebook under Part 1, Step 6. 
+**Note**: running all cells in the notebook will make API calls to OpenAI, meaning **you will incur a cost**. For this reason, you can find a LLM-annotated dataset which you can load from file. The code for how to do so is in the notebook under Part 1, Step 6. 
 
 ## Suggestions for future work
 
