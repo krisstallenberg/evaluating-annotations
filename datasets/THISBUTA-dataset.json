@@ -1,5 +1,5 @@
 {
-    "": [
+    "samples": [
         {
             "phrase": "I might have dressed up a little for the evening",
             "full_text": "In another instance, Mrs. Allen's grand entrance at the annual ball could scarcely be deemed inconspicuous. Adorned in a gown shimmering with scores of finely stitched pearls and a train that swept the floor with regal disdain, she greeted the company with a graceful nod, remarking, \"[I might have dressed up a little for the evening].\" The comment on her attire echoed softly amidst the gasps and whispers, as all present marvelled at her splendid visage.",
@@ -18,7 +18,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -54,7 +55,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -90,7 +92,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -126,7 +129,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -162,7 +166,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -198,7 +203,8 @@
                     "annotator-2": 3,
                     "annotator-3": 1,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -234,7 +240,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -270,7 +277,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -306,7 +314,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 1,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -342,7 +351,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -378,7 +388,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -414,7 +425,8 @@
                     "annotator-2": 1,
                     "annotator-3": 2,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -450,7 +462,8 @@
                     "annotator-2": 3,
                     "annotator-3": 2,
                     "annotator-4": 1,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -486,7 +499,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -522,7 +536,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 1,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -558,7 +573,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -594,7 +610,8 @@
                     "annotator-2": 1,
                     "annotator-3": 2,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -630,7 +647,8 @@
                     "annotator-2": 1,
                     "annotator-3": 1,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 1.8
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -666,7 +684,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -702,7 +721,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 3.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -738,7 +758,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -774,7 +795,8 @@
                     "annotator-2": 3,
                     "annotator-3": 2,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -810,7 +832,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 1,
-                    "annotator-llm": 2
+                    "annotator-llm": 2,
+                    "average_confidence": 1.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -846,7 +869,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 1,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -882,7 +906,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -918,7 +943,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 2
+                    "annotator-llm": 2,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -954,7 +980,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -990,7 +1017,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 3.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -1026,7 +1054,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.0
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -1062,7 +1091,8 @@
                     "annotator-2": 1,
                     "annotator-3": 1,
                     "annotator-4": 1,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 1.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -1098,7 +1128,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -1134,7 +1165,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -1170,7 +1202,8 @@
                     "annotator-2": 2,
                     "annotator-3": 1,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -1206,7 +1239,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -1242,7 +1276,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 1,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -1278,7 +1313,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -1314,7 +1350,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 1,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -1350,7 +1387,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -1386,7 +1424,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -1422,7 +1461,8 @@
                     "annotator-2": 1,
                     "annotator-3": 3,
                     "annotator-4": 1,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -1458,7 +1498,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -1494,7 +1535,8 @@
                     "annotator-2": 1,
                     "annotator-3": 2,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -1530,7 +1572,8 @@
                     "annotator-2": 3,
                     "annotator-3": 2,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -1566,7 +1609,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -1602,7 +1646,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 2
+                    "annotator-llm": 2,
+                    "average_confidence": 2.0
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -1638,7 +1683,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -1674,7 +1720,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -1710,7 +1757,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -1746,7 +1794,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -1782,7 +1831,8 @@
                     "annotator-2": 1,
                     "annotator-3": 1,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 1.8
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -1818,7 +1868,8 @@
                     "annotator-2": 1,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -1854,7 +1905,8 @@
                     "annotator-2": 3,
                     "annotator-3": 2,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -1890,7 +1942,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "Derisive/mocking",
@@ -1926,7 +1979,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -1962,7 +2016,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -1998,7 +2053,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -2034,7 +2090,8 @@
                     "annotator-2": 1,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -2070,7 +2127,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 2
+                    "annotator-llm": 2,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -2106,7 +2164,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -2142,7 +2201,8 @@
                     "annotator-2": 1,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -2178,7 +2238,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -2214,7 +2275,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 2
+                    "annotator-llm": 2,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -2250,7 +2312,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 3.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -2286,7 +2349,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -2322,7 +2386,8 @@
                     "annotator-2": 1,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -2358,7 +2423,8 @@
                     "annotator-2": 1,
                     "annotator-3": 2,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -2394,7 +2460,8 @@
                     "annotator-2": 1,
                     "annotator-3": 2,
                     "annotator-4": 1,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.0
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -2430,7 +2497,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -2466,7 +2534,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -2502,7 +2571,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 3.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -2538,7 +2608,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -2574,7 +2645,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -2610,7 +2682,8 @@
                     "annotator-2": 1,
                     "annotator-3": 2,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.0
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -2646,7 +2719,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 3.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -2682,7 +2756,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 3.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -2718,7 +2793,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -2754,7 +2830,8 @@
                     "annotator-2": 1,
                     "annotator-3": 2,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -2790,7 +2867,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 1,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -2826,7 +2904,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -2862,7 +2941,8 @@
                     "annotator-2": 1,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -2898,7 +2978,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -2934,7 +3015,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 3.0
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -2970,7 +3052,8 @@
                     "annotator-2": 3,
                     "annotator-3": 2,
                     "annotator-4": 1,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -3006,7 +3089,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 3.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -3042,7 +3126,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -3078,7 +3163,8 @@
                     "annotator-2": 1,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 2
+                    "annotator-llm": 2,
+                    "average_confidence": 2.0
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -3114,7 +3200,8 @@
                     "annotator-2": 1,
                     "annotator-3": 2,
                     "annotator-4": 1,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 1.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -3150,7 +3237,8 @@
                     "annotator-2": 1,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -3186,7 +3274,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -3222,7 +3311,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -3258,7 +3348,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 1,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -3294,7 +3385,8 @@
                     "annotator-2": 1,
                     "annotator-3": 2,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -3330,7 +3422,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -3366,7 +3459,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -3402,7 +3496,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -3438,7 +3533,8 @@
                     "annotator-2": 3,
                     "annotator-3": 2,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -3474,7 +3570,8 @@
                     "annotator-2": 1,
                     "annotator-3": 2,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -3510,7 +3607,8 @@
                     "annotator-2": 1,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -3546,7 +3644,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -3582,7 +3681,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 3.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -3618,7 +3718,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -3654,7 +3755,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -3690,7 +3792,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -3726,7 +3829,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -3762,7 +3866,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -3798,7 +3903,8 @@
                     "annotator-2": 1,
                     "annotator-3": 2,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.2
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -3834,7 +3940,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 3.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -3870,7 +3977,8 @@
                     "annotator-2": 1,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -3906,7 +4014,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 1,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -3942,7 +4051,8 @@
                     "annotator-2": 2,
                     "annotator-3": 2,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.4
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -3978,7 +4088,8 @@
                     "annotator-2": 2,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -4014,7 +4125,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 2,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.6
                 },
                 "pragmatic_function": {
                     "annotator-1": null,
@@ -4050,7 +4162,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 3.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -4086,7 +4199,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 2.8
                 },
                 "pragmatic_function": {
                     "annotator-1": "tempering",
@@ -4122,7 +4236,8 @@
                     "annotator-2": 3,
                     "annotator-3": 3,
                     "annotator-4": 3,
-                    "annotator-llm": 3
+                    "annotator-llm": 3,
+                    "average_confidence": 3.0
                 },
                 "pragmatic_function": {
                     "annotator-1": "humorous",
@@ -4145,22 +4260,27 @@
         "annotators": [
             {
                 "name": "annotator-1",
+                "type": "human",
                 "average_confidence": 2.283333333333333
             },
             {
                 "name": "annotator-2",
+                "type": "human",
                 "average_confidence": 2.1848739495798317
             },
             {
                 "name": "annotator-3",
+                "type": "human",
                 "average_confidence": 2.6218487394957983
             },
             {
                 "name": "annotator-4",
+                "type": "human",
                 "average_confidence": 2.3620689655172415
             },
             {
                 "name": "annotator-llm",
+                "type": "llm",
                 "average_confidence": 2.95
             }
         ],
