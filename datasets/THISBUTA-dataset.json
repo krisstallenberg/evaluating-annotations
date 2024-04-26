@@ -4257,33 +4257,27 @@
         }
     ],
     "metadata": {
-        "annotators": [
-            {
-                "name": "annotator-1",
-                "type": "human",
-                "average_confidence": 2.283333333333333
+        "annotators": {
+            "annotator-1": {
+                "type": "human"
             },
-            {
-                "name": "annotator-2",
+            "annotator-2": {
                 "type": "human",
                 "average_confidence": 2.1848739495798317
             },
-            {
-                "name": "annotator-3",
+            "annotator-3": {
                 "type": "human",
                 "average_confidence": 2.6218487394957983
             },
-            {
-                "name": "annotator-4",
+            "annotator-4": {
                 "type": "human",
                 "average_confidence": 2.3620689655172415
             },
-            {
-                "name": "annotator-llm",
+            "annotator-llm": {
                 "type": "llm",
                 "average_confidence": 2.95
             }
-        ],
+        },
         "average_kappa": 0.39423308861450246,
         "fleiss_kappa": 0.4056511056511055
     }
