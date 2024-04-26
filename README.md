@@ -11,7 +11,9 @@ The annotation guidelines used in this project are included [in the repository](
 
 ## Usage
 
-The `evaluate-annotations.ipynb` interactive notebook shows how you can:
+The code for this project is organized in a tutorial-style interactive Python notebook, named [`evaluate-annotations.ipynb`](evaluate-annotations.ipynb). 
+
+The notebook shows how you can:
 
 1. Annotate data with an LLM, in a structured way.
 2. Load human-annotated data and normalize their structure.
@@ -20,13 +22,15 @@ The `evaluate-annotations.ipynb` interactive notebook shows how you can:
 
 ## Installation
 
-To use the notebook, create a `.env` at the root of the repository and add your OpenAI API key:
+To use the notebook, create an `.env` file at the root of the repository and add your OpenAI API key:
 
 ``` env
 OPENAI_API_KEY=<YOUR_OPENAI_KEY>
 ```
 
-The installation of the required Python packages is managed from the `evaluate-annotations.ipynb` notebook.
+The installation of the required Python packages is from the `evaluate-annotations.ipynb` notebook. After you add your `.env` file, you should be able to run all cells in the notebook. 
+
+**Note**: running all cells in the notebook will make calls to the OpenAI API, meaning you will incur a cost. For this reason, you can find a LLM-annotated dataset which you can load from file. The code for how to do so is in the notebook under Part 1, Step 6. 
 
 ## Suggestions for future work
 
