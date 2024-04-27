@@ -7,7 +7,7 @@ The project uses some of the following libraries:
 - [`pydantic`](https://pypi.org/project/pydantic/) to define a data model for annotations.
 - [`instructor`](https://pypi.org/project/instructor/) to validate the LLM responses according to the model.
 
-The annotation guidelines used in this project are included [in the repository](datasets/Annotation-guidelines.pdf).
+The [annotation guidelines]((datasets/Annotation-guidelines.pdf)) used in this project are included in the repository.
 
 ## Usage
 
