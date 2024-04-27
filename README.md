@@ -1,5 +1,5 @@
 
-This repository contains a project to annotate linguistic data (understatements) using a Language Model (LLM), as well as to evaluate the quality of the annotations and compare them to human annotations for Inter-Annotator Agreement. Finally, the project allows you to create a linguistic dataset of the annotated samples and metadata.
+This repository contains a project to annotate linguistic data (understatements) using a Language Model (LLM), as well as to evaluate the quality of the annotations and compare them to human annotations for Inter-Annotator Agreement. Finally, the project allows you to create a linguistic dataset of the annotated samples and metadata. The final dataset of understatements is also [available on Kaggle](https://www.kaggle.com/datasets/kstallz/thisbuta/data).
 
 The project uses some of the following libraries:
 
